@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## WORKING MODEL
-![Demo](main1.gif)
+![Demo](Hnet-image(1).gif)
 
  
 ## Available Scripts
